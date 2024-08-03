@@ -16,7 +16,11 @@ public class AController {
 		System.out.println("jjjjjjj");
 		System.out.println("newwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww");
 		System.out.println("jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj");
-		System.out.println("wearehrooooooooo");
+
+		System.out.println("o:wearehrooooooooo");
+
+		System.out.println("yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy");
+
 	}
 	
 
